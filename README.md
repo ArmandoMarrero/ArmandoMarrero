@@ -10,7 +10,7 @@
 ### 💻 Tech Stack:
 ![C](https://skillicons.dev/icons?i=html,css,sass,figma,py,c,js,django,flask,nodejs,npm,sqlite,mysql,mongodb,vscode,vim,neovim,bash,md,git,github,githubactions,notion) 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=freddyrosa16&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ArmandoNarrero&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=freddyrosa16&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=freddyrosa16&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
